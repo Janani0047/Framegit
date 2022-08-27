@@ -6,7 +6,13 @@ System.out.println("a");
 
 
 }
+private void method2() {
+	System.out.println("bbb");
+
+}
 private void method3() {
 	System.out.println("ffff");
+
+
 }
 }
